@@ -1,1 +1,1 @@
-gradlew setupDevWorkspace
+gradlew setupDevWorkspace eclipse
